@@ -1,0 +1,24 @@
+D:\1.Program\1. ASP.NET\MVC\NetCore2\NetCore.Data\bin\Debug\net6.0\NetCore.Data.deps.json
+D:\1.Program\1. ASP.NET\MVC\NetCore2\NetCore.Data\bin\Debug\net6.0\NetCore.Data.dll
+D:\1.Program\1. ASP.NET\MVC\NetCore2\NetCore.Data\bin\Debug\net6.0\NetCore.Data.pdb
+D:\1.Program\1. ASP.NET\MVC\NetCore2\NetCore.Data\obj\Debug\net6.0\NetCore.Data.csproj.AssemblyReference.cache
+D:\1.Program\1. ASP.NET\MVC\NetCore2\NetCore.Data\obj\Debug\net6.0\NetCore.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.Program\1. ASP.NET\MVC\NetCore2\NetCore.Data\obj\Debug\net6.0\NetCore.Data.AssemblyInfoInputs.cache
+D:\1.Program\1. ASP.NET\MVC\NetCore2\NetCore.Data\obj\Debug\net6.0\NetCore.Data.AssemblyInfo.cs
+D:\1.Program\1. ASP.NET\MVC\NetCore2\NetCore.Data\obj\Debug\net6.0\NetCore.Data.csproj.CoreCompileInputs.cache
+D:\1.Program\1. ASP.NET\MVC\NetCore2\NetCore.Data\obj\Debug\net6.0\NetCore.Data.dll
+D:\1.Program\1. ASP.NET\MVC\NetCore2\NetCore.Data\obj\Debug\net6.0\refint\NetCore.Data.dll
+D:\1.Program\1. ASP.NET\MVC\NetCore2\NetCore.Data\obj\Debug\net6.0\NetCore.Data.pdb
+D:\1.Program\1. ASP.NET\MVC\NetCore2\NetCore.Data\obj\Debug\net6.0\ref\NetCore.Data.dll
+D:\1. Program\1. ASP.NET\MVC\3. NetCore DI&Code-First\NetCore.Data\bin\Debug\net6.0\NetCore.Data.deps.json
+D:\1. Program\1. ASP.NET\MVC\3. NetCore DI&Code-First\NetCore.Data\bin\Debug\net6.0\NetCore.Data.dll
+D:\1. Program\1. ASP.NET\MVC\3. NetCore DI&Code-First\NetCore.Data\bin\Debug\net6.0\NetCore.Data.pdb
+D:\1. Program\1. ASP.NET\MVC\3. NetCore DI&Code-First\NetCore.Data\obj\Debug\net6.0\NetCore.Data.csproj.AssemblyReference.cache
+D:\1. Program\1. ASP.NET\MVC\3. NetCore DI&Code-First\NetCore.Data\obj\Debug\net6.0\NetCore.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\1. Program\1. ASP.NET\MVC\3. NetCore DI&Code-First\NetCore.Data\obj\Debug\net6.0\NetCore.Data.AssemblyInfoInputs.cache
+D:\1. Program\1. ASP.NET\MVC\3. NetCore DI&Code-First\NetCore.Data\obj\Debug\net6.0\NetCore.Data.AssemblyInfo.cs
+D:\1. Program\1. ASP.NET\MVC\3. NetCore DI&Code-First\NetCore.Data\obj\Debug\net6.0\NetCore.Data.csproj.CoreCompileInputs.cache
+D:\1. Program\1. ASP.NET\MVC\3. NetCore DI&Code-First\NetCore.Data\obj\Debug\net6.0\NetCore.Data.dll
+D:\1. Program\1. ASP.NET\MVC\3. NetCore DI&Code-First\NetCore.Data\obj\Debug\net6.0\refint\NetCore.Data.dll
+D:\1. Program\1. ASP.NET\MVC\3. NetCore DI&Code-First\NetCore.Data\obj\Debug\net6.0\NetCore.Data.pdb
+D:\1. Program\1. ASP.NET\MVC\3. NetCore DI&Code-First\NetCore.Data\obj\Debug\net6.0\ref\NetCore.Data.dll

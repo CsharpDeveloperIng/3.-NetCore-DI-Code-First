@@ -1,0 +1,30 @@
+﻿@model LoginInfo
+@{
+	ViewData["Title"] = "멤버십 로그인";
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div class="row">
+	<div class="col-md-4">
+		<form method="post" asp-controller="Membership" asp-action="Login" onsubmit="btnLogin.disabled = true; return true;"> 
+			// method : Post 방식 컨트롤러 : 멤버십 액션 : 로그인 연결됨 // onsubmit 을 통해 중복 클릭 방지 할 수 있음.
+			<div class="text-danger" asp-validation-summary="All"></div> //asp-validation-summary : 전체적인 폼의 Error와 내용물들의 에러를 같이 표현해줄 것인가.?
+			<div class="form-group">
+				@Html.DisplayNameFor(m=>m.UserID) //DisplayNameFor : 네임으로 가져와서 데이터와 연결을 한다. (람다식으로 표현)
+				<input type="text" class="form-control" asp-for="UserID" placeholder="User ID" autofocus />
+				<span class="text-danger" asp-validation-for="UserID"></span> //Error 발생시 span Tag를 통해 경고 표시 가능
+			</div>
+			<div class="form-group">
+				@Html.DisplayNameFor(m=>m.Password) //
+				<input type="password" class="form-control" asp-for="Password" placeholder="Password" />
+				<span class="text-danger" asp-validation-for="Password"></span>//Error 발생시 span Tag를 통해 경고 표시 가능
+			</div>
+			<button type="submit" name="btnLogin" class="btn btn-lg btn-success btn-block">멤버십 로그인</button> 
+			//폼 안 or 밖으로 버튼을 구성할 수 있으나, 안에 배치해야 제대로 동작이 된다. btn-lg 는 크기 길이는 col-md-4 를 따라간다.
+		</form>
+	</div>
+
+</div>
+

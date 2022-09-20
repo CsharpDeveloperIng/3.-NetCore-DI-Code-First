@@ -1,0 +1,32 @@
+D:\1.Program\1. ASP.NET\MVC\NetCore2\NetCore.Services\bin\Debug\net6.0\NetCore.Services.deps.json
+D:\1.Program\1. ASP.NET\MVC\NetCore2\NetCore.Services\bin\Debug\net6.0\NetCore.Services.dll
+D:\1.Program\1. ASP.NET\MVC\NetCore2\NetCore.Services\bin\Debug\net6.0\NetCore.Services.pdb
+D:\1.Program\1. ASP.NET\MVC\NetCore2\NetCore.Services\bin\Debug\net6.0\NetCore.Data.dll
+D:\1.Program\1. ASP.NET\MVC\NetCore2\NetCore.Services\bin\Debug\net6.0\NetCore.Data.pdb
+D:\1.Program\1. ASP.NET\MVC\NetCore2\NetCore.Services\obj\Debug\net6.0\NetCore.Services.csproj.AssemblyReference.cache
+D:\1.Program\1. ASP.NET\MVC\NetCore2\NetCore.Services\obj\Debug\net6.0\NetCore.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.Program\1. ASP.NET\MVC\NetCore2\NetCore.Services\obj\Debug\net6.0\NetCore.Services.AssemblyInfoInputs.cache
+D:\1.Program\1. ASP.NET\MVC\NetCore2\NetCore.Services\obj\Debug\net6.0\NetCore.Services.AssemblyInfo.cs
+D:\1.Program\1. ASP.NET\MVC\NetCore2\NetCore.Services\obj\Debug\net6.0\NetCore.Services.csproj.CoreCompileInputs.cache
+D:\1.Program\1. ASP.NET\MVC\NetCore2\NetCore.Services\obj\Debug\net6.0\NetCore.Services.csproj.CopyComplete
+D:\1.Program\1. ASP.NET\MVC\NetCore2\NetCore.Services\obj\Debug\net6.0\NetCore.Services.dll
+D:\1.Program\1. ASP.NET\MVC\NetCore2\NetCore.Services\obj\Debug\net6.0\refint\NetCore.Services.dll
+D:\1.Program\1. ASP.NET\MVC\NetCore2\NetCore.Services\obj\Debug\net6.0\NetCore.Services.pdb
+D:\1.Program\1. ASP.NET\MVC\NetCore2\NetCore.Services\obj\Debug\net6.0\ref\NetCore.Services.dll
+D:\1. Program\1. ASP.NET\MVC\3. NetCore DI&Code-First\NetCore.Services\obj\Debug\net6.0\NetCore.Services.csproj.AssemblyReference.cache
+D:\1. Program\1. ASP.NET\MVC\3. NetCore DI&Code-First\NetCore.Services\obj\Debug\net6.0\NetCore.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\1. Program\1. ASP.NET\MVC\3. NetCore DI&Code-First\NetCore.Services\obj\Debug\net6.0\NetCore.Services.AssemblyInfoInputs.cache
+D:\1. Program\1. ASP.NET\MVC\3. NetCore DI&Code-First\NetCore.Services\obj\Debug\net6.0\NetCore.Services.AssemblyInfo.cs
+D:\1. Program\1. ASP.NET\MVC\3. NetCore DI&Code-First\NetCore.Services\obj\Debug\net6.0\NetCore.Services.csproj.CoreCompileInputs.cache
+D:\1. Program\1. ASP.NET\MVC\3. NetCore DI&Code-First\NetCore.Services\obj\Debug\net6.0\NetCore.Services.dll
+D:\1. Program\1. ASP.NET\MVC\3. NetCore DI&Code-First\NetCore.Services\obj\Debug\net6.0\refint\NetCore.Services.dll
+D:\1. Program\1. ASP.NET\MVC\3. NetCore DI&Code-First\NetCore.Services\obj\Debug\net6.0\NetCore.Services.pdb
+D:\1. Program\1. ASP.NET\MVC\3. NetCore DI&Code-First\NetCore.Services\bin\Debug\net6.0\NetCore.Services.deps.json
+D:\1. Program\1. ASP.NET\MVC\3. NetCore DI&Code-First\NetCore.Services\bin\Debug\net6.0\NetCore.Services.dll
+D:\1. Program\1. ASP.NET\MVC\3. NetCore DI&Code-First\NetCore.Services\bin\Debug\net6.0\NetCore.Services.pdb
+D:\1. Program\1. ASP.NET\MVC\3. NetCore DI&Code-First\NetCore.Services\bin\Debug\net6.0\NetCore.Data.dll
+D:\1. Program\1. ASP.NET\MVC\3. NetCore DI&Code-First\NetCore.Services\bin\Debug\net6.0\NetCore.Data.pdb
+D:\1. Program\1. ASP.NET\MVC\3. NetCore DI&Code-First\NetCore.Services\obj\Debug\net6.0\NetCore.Services.csproj.CopyComplete
+D:\1. Program\1. ASP.NET\MVC\3. NetCore DI&Code-First\NetCore.Services\obj\Debug\net6.0\ref\NetCore.Services.dll
+D:\1. Program\1. ASP.NET\MVC\3. NetCore DI&Code-First\NetCore.Services\bin\Debug\net6.0\NetCore.Services.runtimeconfig.json
+D:\1. Program\1. ASP.NET\MVC\3. NetCore DI&Code-First\NetCore.Services\obj\Debug\net6.0\NetCore.Services.genruntimeconfig.cache
